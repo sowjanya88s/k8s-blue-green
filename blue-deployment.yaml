@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: nginx-blue
-        image: jujjurisowjanya/blue-green:0.0.1
+        image: jujjurisowjanya/blue-green:1.0.0
